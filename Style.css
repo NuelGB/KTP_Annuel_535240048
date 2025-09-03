@@ -61,3 +61,29 @@
 .darah{
   text-indent: 3.9em;
 }
+
+img{
+  width: 120px;
+  height: 150px;
+}
+
+figure{
+  position: relative;
+  width: 120px;
+  height: 150px;
+  left: 405px;
+  bottom: 280px;
+  text-align: center;
+  font-size: 13px;
+}
+
+figcaption{
+  margin: 5px;
+  font-family: Arial, sans-serif;
+}
+
+.ttd{
+  width: 75px;
+  height: 75px;
+  left: 40px;
+}
